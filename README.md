@@ -7,6 +7,9 @@ Recall is a consumer protection system in which the seller repairs, inspects, an
 In this project, we will use the 2020 automobile defect recall data provided by the Korea Transportation Safety Authority to discover and visualize meaningful patterns and insights.
 
 # [Project 2] COVID-19 Data Analysis
+The COVID-19 virus, which occurred in early 2020, was a global pandemic, and a lot of analysis is being done about it. In the early days of the epidemic, there was not enough data to analyze it, but now, after more than 6 months, various data institutions are publicly providing corona-related data.
+
+In this project, we will perform exploratory data analysis based on the 'Seoul Corona 19 confirmed cases' data provided by the domestic public data portal. We selected the data of Seoul, which has the highest number of confirmed cases and the largest number of people among domestic data.
 
 # [Project 3] Gas station market analysis with oil price data
 
