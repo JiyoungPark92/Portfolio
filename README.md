@@ -1,5 +1,5 @@
 # Portfolio
-Jiyoung's Data Portfolio
+Jiyoung's Data Analysis Portfolio
 
 # [Project 1] Car Recall Data Analysis
 Recall is a consumer protection system in which the seller repairs, inspects, and exchanges free of charge when defects are found in the design and manufacturing stages of the product to prevent problems. As each house has a personal car, automobiles have become a part of our daily lives. However, sporadic concerns about safety continue to be raised, and as a result, sudden car recalls often occur, attracting attention.
