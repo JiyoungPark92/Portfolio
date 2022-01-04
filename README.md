@@ -39,7 +39,7 @@ In this project, let's analyze the 'Information on the number of people getting 
 
 # [Project 5] Prediction of product recommendation through review analysis of clothing sales
 ## Key Words  
-word cloud, Visualization, Natural language, ML, Decision tree, Confusion matrix  
+Word cloud, Visualization, Natural language, ML, Decision tree, Confusion matrix  
 ## Project Goals
 - Perform a classification model to predict whether a product will be recommended through product review data analysis
 - Perform data analysis on characteristic data that affects product recommendation
