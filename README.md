@@ -39,16 +39,27 @@ In this project, let's analyze the 'Information on the number of people getting 
 
 # [Project 5] Prediction of product recommendation through review analysis of clothing sales
 ## Key Words  
-Word cloud, Visualization, Natural language, ML, Decision tree, Confusion matrix  
+Word cloud, Visualization, Natural language, Machine learning, Decision tree, Confusion matrix  
 ## Project Goals
 - Perform a classification model to predict whether a product will be recommended through product review data analysis
 - Perform data analysis on characteristic data that affects product recommendation
-## Project outline
+## Project Outline
 As the era of untact approaches, various products such as clothing, groceries, and electronic products have been traded through the Internet. Numerous products are displayed on the Internet, but it is difficult to know if a product is right for you unless you have actually used it. In order to overcome these shortcomings, numerous e-commerce websites allow users to leave product reviews and encourage as many reviews as possible. Through these reviews, consumers can get information that they could not understand from actual reviews and product information, and they can also have trust for products with many positive reviews. From a seller's point of view, a product with many reviews can be used as a marketing element, and it has the advantage of being able to listen to consumers' opinions. Therefore, in e-commerce, reviews are valuable as characteristic data that is very important for purchasing products.
 
 In this project, we implement a classification model that predicts product recommendations based on women's clothing e-commerce data provided by Kaggle. This way, when you receive new reviews and women's clothing information, you can predict whether you would recommend the product. Using this, it is possible to predict whether or not to recommend a product based on reviews and clothing information even for products for which there is no product recommendation, which can be used again as an important product indicator.
 
 # [Project 6] Classification of traffic sign images
+## Key Words
+CNN, Deep learning, Image data, Confusion matrix
+## Project Goals
+- Perform a classification model that analyzes traffic sign image data and predicts the type of sign through a deep learning model
+- Learning the process of pre-processing a large amount of image data and the performance change of the CNN model accordingly
+## Project Outline
+Seeing road traffic signs and obeying the rules while driving a vehicle is important for you and your traffic safety. If a machine, not a human, had to do this, how would it be able to tell the signs apart? This question has become an important issue with the development of autonomous vehicle technology, and a classification model based on deep learning technology is being applied with a considerable level of accuracy.
+
+In this project, as the first step of classifying traffic signs, we implement a deep learning model that classifies which of 43 types of signs when a traffic sign image is simply input. Through this, it is possible to learn to perform classification through the characteristics of traffic sign image data and the CNN model.
+
+Extending the first step, in the future, we will use an object detection model that separates and classifies traffic signs from road images instead of using images with only traffic signs as input. You can perform a model to isolate and classify .
 
 # [Project 7] Prediction of process anomalies using semiconductor process data
 
