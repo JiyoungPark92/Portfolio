@@ -38,6 +38,8 @@ You may have gotten used to the situation of the corona virus, but sometimes whe
 In this project, let's analyze the 'Information on the number of people getting on and off at each station by subway line in Seoul' provided by the Seoul Open Data Plaza and intuitively check which station on a specific line is the most crowded by using the 'Subway station location coordinates' data.
 
 # [Project 5] Prediction of product recommendation through review analysis of clothing sales
+## Key Words  
+word cloud, Visualization, Natural language, ML, Decision tree, Confusion matrix  
 ## Project Goals
 - Perform a classification model to predict whether a product will be recommended through product review data analysis
 - Perform data analysis on characteristic data that affects product recommendation
