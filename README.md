@@ -38,6 +38,13 @@ You may have gotten used to the situation of the corona virus, but sometimes whe
 In this project, let's analyze the 'Information on the number of people getting on and off at each station by subway line in Seoul' provided by the Seoul Open Data Plaza and intuitively check which station on a specific line is the most crowded by using the 'Subway station location coordinates' data.
 
 # [Project 5] Prediction of product recommendation through review analysis of clothing sales
+## Project Goals
+- Perform a classification model to predict whether a product will be recommended through product review data analysis
+- Perform data analysis on characteristic data that affects product recommendation
+## Project outline
+As the era of untact approaches, various products such as clothing, groceries, and electronic products have been traded through the Internet. Numerous products are displayed on the Internet, but it is difficult to know if a product is right for you unless you have actually used it. In order to overcome these shortcomings, numerous e-commerce websites allow users to leave product reviews and encourage as many reviews as possible. Through these reviews, consumers can get information that they could not understand from actual reviews and product information, and they can also have trust for products with many positive reviews. From a seller's point of view, a product with many reviews can be used as a marketing element, and it has the advantage of being able to listen to consumers' opinions. Therefore, in e-commerce, reviews are valuable as characteristic data that is very important for purchasing products.
+
+In this project, we implement a classification model that predicts product recommendations based on women's clothing e-commerce data provided by Kaggle. This way, when you receive new reviews and women's clothing information, you can predict whether you would recommend the product. Using this, it is possible to predict whether or not to recommend a product based on reviews and clothing information even for products for which there is no product recommendation, which can be used again as an important product indicator.
 
 # [Project 6] Classification of traffic sign images
 
