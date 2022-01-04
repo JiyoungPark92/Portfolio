@@ -62,5 +62,14 @@ In this project, as the first step of classifying traffic signs, I implement a d
 Extending the first step, in the future, I will use an object detection model that separates and classifies traffic signs from road images instead of using images with only traffic signs as input. You can perform a model to isolate and classify .
 
 # [Project 7] Prediction of process anomalies using semiconductor process data
+## Key Words
+Machine learning, Logistic Classifier, Visualization
+## Project Goals
+- Perform classification model to predict process anomalies through semiconductor process data analysis
+- Data analysis on factors affecting process abnormalities
+## Project outline
+As the digital transformation of the manufacturing field progresses, a lot of information that occurs in the manufacturing process is being organized into data. In the field of detecting abnormalities in the manufacturing process, artificial intelligence technology implemented based on such data is more efficient than the existing probability-based prediction. These anomaly detection algorithms can not only predict reject rates, but can also help determine which factors are contributing to rejects. Therefore, anomaly detection using artificial intelligence in the manufacturing field continues to be studied, is applied quickly, and is showing its effectiveness.
+
+In this lab, I implement a classification model that predicts process anomalies based on data based on sensor data measured in the SECOM process provided by UCI. Using this, it is possible to predict whether a process abnormality occurs when sensor data is given, and find out which sensors play an important role in the case of process abnormality.
 
 # [Project 8] Financial Transaction Customer Credit Risk Prediction
