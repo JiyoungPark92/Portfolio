@@ -29,6 +29,13 @@ The ‘KNOC Gas Station Sales Price by Product’, which is registered on the pu
 First, let's process the data for each year so that there is one row for each gas station by summarizing the data accumulated by 7 days for each gas station. And using this data, let's analyze how many gas stations have opened and closed in the past 4 years. Next, let's analyze price competitiveness by brand and changes in market share over the past 4 years. Lastly, let's find out how much the price difference is by gas station and analyze whether there are any significant differences by region.
   
 # [Project 4] Subway Passenger Analysis
+## Project Goals
+- To check the number of passengers at the station at the time of boarding or alighting, **data on the number of passengers passing through the ticket gate** and **data on the subway location coordinates**
+- Learning data purification, feature engineering, and visualization methods to perform exploratory data analysis 
+## Project Outline
+You may have gotten used to the situation of the corona virus, but sometimes when you go out, you want to avoid crowded places, so you may want to know which places to avoid. If you check the number of passengers using the subway, you can identify areas with high levels of congestion.
+
+In this project, let's analyze the 'Information on the number of people getting on and off at each station by subway line in Seoul' provided by the Seoul Open Data Plaza and intuitively check which station on a specific line is the most crowded by using the 'Subway station location coordinates' data.
 
 # [Project 5] Prediction of product recommendation through review analysis of clothing sales
 
