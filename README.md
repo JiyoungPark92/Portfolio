@@ -2,6 +2,10 @@
 Jiyoung's Data Analysis Portfolio
 
 # [Project 1] Car Recall Data Analysis
+## Project Goals
+- Analysis of vehicle defect recall data from Korea Transportation Safety Authority to derive meaningful information
+- Learning data purification, feature engineering, and visualization methods to perform exploratory data analysis
+## Project Outline 
 Recall is a consumer protection system in which the seller repairs, inspects, and exchanges free of charge when defects are found in the design and manufacturing stages of the product to prevent problems. As each house has a personal car, automobiles have become a part of our daily lives. However, sporadic concerns about safety continue to be raised, and as a result, sudden car recalls often occur, attracting attention.
 
 In this project, we will use the 2020 automobile defect recall data provided by the Korea Transportation Safety Authority to discover and visualize meaningful patterns and insights.
