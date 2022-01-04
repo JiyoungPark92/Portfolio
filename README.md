@@ -73,3 +73,12 @@ As the digital transformation of the manufacturing field progresses, a lot of in
 In this lab, I implement a classification model that predicts process anomalies based on data based on sensor data measured in the SECOM process provided by UCI. Using this, it is possible to predict whether a process abnormality occurs when sensor data is given, and find out which sensors play an important role in the case of process abnormality.
 
 # [Project 8] Financial Transaction Customer Credit Risk Prediction
+## Key Words
+Machine learning, K-fold, Decision tree, Visualizaion
+## Project Goals
+- Perform classification model to predict customer credit risk through financial transaction data analysis
+- Perform data analysis on characteristic data that affects customer credit risk
+## Project outline
+Financial transaction data makes it possible to determine the consumption patterns of people belonging to the data, and even to infer their lifestyles. This information can help marketers or financial institutions make appropriate product recommendations. In particular, the customer's credit risk level can be used as important information in recommending financial products or limiting financial activities.
+
+In this project, I implement a classification model that predicts the credit risk of financial customers based on German financial transaction customer data. Based on data analysis and classification model, when new customer data is received, it is possible to predict whether or not there is a credit risk, and it is also possible to know which characteristic data has a significant influence on predicting whether or not there is a risk.
