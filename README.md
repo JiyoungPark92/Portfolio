@@ -63,7 +63,7 @@ Extending the first step, in the future, I will use an object detection model th
 
 # [Project 7] Prediction of process anomalies using semiconductor process data
 ## Key Words
-Machine learning, Logistic Classifier, Visualization
+Machine learning, logistic regression classifier, Visualization
 ## Project Goals
 - Perform classification model to predict process anomalies through semiconductor process data analysis
 - Data analysis on factors affecting process abnormalities
